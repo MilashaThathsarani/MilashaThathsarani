@@ -1,5 +1,8 @@
 ### Hi there 👋
 ## Milasha Thathsarani
+### 🌱 I’m currently learning in IJSE...
+### 👯 I’m looking to collaborate on WITH YOUUU..
+### 😄 Pronouns: Mila.
 
 <!--
 **MilashaThathsarani/MilashaThathsarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
