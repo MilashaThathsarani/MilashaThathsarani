@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milashathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="milashathathsarani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@milashathathsa" target="blank"><img src="https://img.shields.io/twitter/follow/@milashathathsa?logo=twitter&style=for-the-badge" alt="@milashathathsa" /></a> </p>
-
 - 🌱 I’m currently learning **Institute Of Java and Software Engineering in Galle.**
 
 - 📫 How to reach me **milashathathsarani99@gmail.com**
