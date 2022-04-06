@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milasha Thathsarani</h1>
 <h3 align="center">Software Engineering Student from Sri Lanka</h3>
 
-<img src="https://camo.githubusercontent.com/2eea771f863293e9eaeb13107e1f9f0eb5414a3557247da3b489f646a7bfd03b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d3332267643656e7465723d747275652677696474683d373630266c696e65733d48656c6c6f2b2546302539462539312538422532432b49276d2b48616e73692b48617368616e692e2e3b57656c636f6d652b746f2b6d792b6769746875622b70726f66696c652e2e2e" data-canonical-src="https://readme-typing-svg.herokuapp.com?size=32&amp;vCenter=true&amp;width=760&amp;lines=Hello+Welcome+to+my+github+profile..." style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/2eea771f863293e9eaeb13107e1f9f0eb5414a3557247da3b489f646a7bfd03b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d3332267643656e7465723d747275652677696474683d373630266c696e65733d48656c6c6f2b2546302539462539312538422532432b49276d2b48616e73692b48617368616e692e2e3b57656c636f6d652b746f2b6d792b6769746875622b70726f66696c652e2e2e" data-canonical-src="https://readme-typing-svg.herokuapp.com?size=32&amp;vCenter=true&amp;width=760&amp;lines=Hello Welcome+to+my+github+profile..." style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milashathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="milashathathsarani" /> </p>
 
