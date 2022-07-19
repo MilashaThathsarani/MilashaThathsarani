@@ -1,11 +1,11 @@
-🔭 I’m currently working on **Buckoid Android App**
+
 
 - 🌱 I’m currently learning **React Native**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **IJSE**
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **milashathathsarani99@gmail.com**
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
