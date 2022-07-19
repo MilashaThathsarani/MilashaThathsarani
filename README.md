@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Milasha Thathsarani</h1>
 <h3 align="center">Software Engineering Student from Sri Lanka</h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*qdAW1TjCN57h1lbuuzvchg.gif&imgrefurl=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&tbnid=lahMOKRfUGYsqM&vet=12ahUKEwjtor_2wYT5AhUi0HMBHZ4OA_YQMygGegUIARD8AQ..i&docid=0mKPiLrZS3atRM&w=800&h=600&q=animated%20coding%20girl%20gif&ved=2ahUKEwjtor_2wYT5AhUi0HMBHZ4OA_YQMygGegUIARD8AQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milashathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="milashathathsarani" /> </p>
 
