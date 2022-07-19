@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milasha Thathsarani</h1>
 <h3 align="center">Software Engineering Student from Sri Lanka</h3>
+<img https://dribbble.com/shots/3848396-Character-Typing?utm_source=Clipboard_Shot&utm_campaign=VMokuenko&utm_content=Character%20Typing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=VMokuenko&utm_content=Character%20Typing&utm_medium=Social_Share/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milashathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="milashathathsarani" /> </p>
 
