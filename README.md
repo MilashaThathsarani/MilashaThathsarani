@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Milasha Thathsarani</h1>
 <h3 align="center">Software Engineering Student from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img src="![0249efe4cc8e3c20094fc2d20aa58912](https://user-images.githubusercontent.com/91422385/179699410-2ba2525c-0409-47a8-a154-663eb17f94f3.gif)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milashathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="milashathathsarani" /> </p>
 
