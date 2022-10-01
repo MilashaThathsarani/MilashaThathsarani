@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Milasha Thathsarani</h1>
 <h3 align="center">Software Engineering Student from Sri Lanka</h3>
 
