@@ -5,8 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milashathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="milashathathsarani" /> </p>
+-🌱 I’m currently learning **Cardiff Metropoliton University UK.**
 
-- 🌱 I’m currently learning **Institute Of Java and Software Engineering in Galle.**
+- 🌱 I studied **Institute Of Java and Software Engineering (IJSE) in Galle.**
 
 - 📫 How to reach me **milashathathsarani99@gmail.com**
 
